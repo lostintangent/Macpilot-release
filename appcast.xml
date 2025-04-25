@@ -19,7 +19,7 @@
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/lostintangent/macpilot/releases/download/v0.1/Macpilot-0.1.zip"
+                url="https://github.com/lostintangent/macpilot-release/releases/download/v0.1/Macpilot.zip"
                 length="1038305"
                 type="application/octet-stream" />
         </item>
