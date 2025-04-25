@@ -5,23 +5,22 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 1.1</title>
+            <title>v0.1</title>
+            <pubDate>Thu, 24 Apr 2025 10:31:30 -0700</pubDate>
             <description>
                 <![CDATA[
-                    <h2>What's New in Macpilot 1.1</h2>
+                    <h2>What's New in Macpilot 0.1</h2>
                     <ul>
-                        <li>Added Sparkle automatic updates</li>
-                        <li>Improved UI responsiveness</li>
-                        <li>Fixed minor bugs</li>
+                        <li>Added support for clicking on hyperlinks, and having them open in your default browser.</li>
                     </ul>
                 ]]>
             </description>
-            <pubDate>Fri, 25 Apr 2025 12:00:00 +0000</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/lostintangent/macpilot/releases/download/v1.1/Macpilot-1.1.dmg"
-                sparkle:version="1.1"
-                sparkle:shortVersionString="1.1"
-                length="0"
+                url="https://github.com/lostintangent/macpilot/releases/download/v0.1/Macpilot-0.1.zip"
+                length="1038305"
                 type="application/octet-stream" />
         </item>
     </channel>
